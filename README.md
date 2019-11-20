@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/reddy1262/reddy1262/_apis/build/status/venu-1262.pipelines-java?branchName=master)](https://dev.azure.com/reddy1262/reddy1262/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
